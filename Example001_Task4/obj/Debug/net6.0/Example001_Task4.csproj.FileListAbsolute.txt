@@ -1,0 +1,15 @@
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\C#\Examples\Example001_Task4\bin\Debug\net6.0\Example001_Task4.exe
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\C#\Examples\Example001_Task4\bin\Debug\net6.0\Example001_Task4.deps.json
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\C#\Examples\Example001_Task4\bin\Debug\net6.0\Example001_Task4.runtimeconfig.json
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\C#\Examples\Example001_Task4\bin\Debug\net6.0\Example001_Task4.dll
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\C#\Examples\Example001_Task4\bin\Debug\net6.0\Example001_Task4.pdb
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\C#\Examples\Example001_Task4\obj\Debug\net6.0\Example001_Task4.csproj.AssemblyReference.cache
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\C#\Examples\Example001_Task4\obj\Debug\net6.0\Example001_Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\C#\Examples\Example001_Task4\obj\Debug\net6.0\Example001_Task4.AssemblyInfoInputs.cache
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\C#\Examples\Example001_Task4\obj\Debug\net6.0\Example001_Task4.AssemblyInfo.cs
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\C#\Examples\Example001_Task4\obj\Debug\net6.0\Example001_Task4.csproj.CoreCompileInputs.cache
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\C#\Examples\Example001_Task4\obj\Debug\net6.0\Example001_Task4.dll
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\C#\Examples\Example001_Task4\obj\Debug\net6.0\refint\Example001_Task4.dll
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\C#\Examples\Example001_Task4\obj\Debug\net6.0\Example001_Task4.pdb
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\C#\Examples\Example001_Task4\obj\Debug\net6.0\Example001_Task4.genruntimeconfig.cache
+C:\Users\Julia\GoogleDrive\GB\Developer\Введение\C#\Examples\Example001_Task4\obj\Debug\net6.0\ref\Example001_Task4.dll
