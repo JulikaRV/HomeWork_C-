@@ -6,7 +6,7 @@
 
 Console.WriteLine("insert number:  ");
 int n = Convert.ToInt32(Console.ReadLine());
-int i = 0;
+int i = 1;
 
 while (i <= n)
 {

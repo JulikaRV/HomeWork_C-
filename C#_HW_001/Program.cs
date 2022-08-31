@@ -5,7 +5,7 @@
 // // // a = 2 b = 10 -> max = 10
 // // // a = -9 b = -3 -> max = -3
 
-Console.Write("insert number:  ");
+Console.Write("insert 1 number:  ");
 int a = Convert.ToInt32(Console.ReadLine());
 Console.Write("insert 2 number:  ");
 int b = Convert.ToInt32(Console.ReadLine());
@@ -14,4 +14,8 @@ if (a > b)
 {
     Console.WriteLine("max number is " + a + " and min number is " + b);
 }
-else Console.WriteLine("max number is " + b + " and min number is " + a);
+else if (a < b)
+{
+    Console.WriteLine("max number is " + b + " and min number is " + a);
+}
+else Console.WriteLine(" numbers are equal");
